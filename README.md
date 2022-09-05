@@ -3,18 +3,12 @@
 
 
 
+
+
+
 <div id="header" align="center">
-<iframe src="https://giphy.com/embed/AOSwwqVjNZlDO" width="480" height="303" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-AOSwwqVjNZlDO">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width="100"/>
 </div>
-
-
-
-
-
-
-
-
-
 
 
 
