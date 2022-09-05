@@ -7,7 +7,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width=500 height=600/>
+  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width=1000 height=200/>
 </div>
 
 
