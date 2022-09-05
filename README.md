@@ -2,17 +2,6 @@
 
 
 
-
-
-
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" width=1500 height=200/>
-  
-  
-</div>
-
-
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoorthyvv&theme=hacker)](https://git.io/streak-stats)
 
