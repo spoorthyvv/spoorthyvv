@@ -5,7 +5,7 @@
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=spoorthyvv&theme=hacker)](https://git.io/streak-stats)
 
-
+<!-- 
 
 <!--
 **spoorthyvv/spoorthyvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
